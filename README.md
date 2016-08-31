@@ -1,2 +1,3 @@
-# kush-gauge
-Streaming video bitrate calculator
+# [Kush Gauge](http://blog.sporv.com/restoration-tips-kush-gauge) calculator
+
+### Calculate the optimal bitrate for encoding a video for streaming

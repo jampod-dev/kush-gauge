@@ -1,0 +1,16 @@
+body {
+  padding: 1rem;
+}
+h2 {
+  font-size: 3rem;
+}
+h1 {
+  margin: 2rem 0;
+  font-size: 2rem;
+}
+form {
+  max-width: 100%;
+  width: 400px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=style.css.map */
